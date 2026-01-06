@@ -1,0 +1,2 @@
+Este es un ejemplo para probar como funciona Linux en un entorno Ubuntu.
+
